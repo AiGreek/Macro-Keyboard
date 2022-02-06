@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name "BluetoothModuleHC06")(type "KiCad")(uri "C:/Users/Trajectory/Dropbox/Electronics/Library/BluetoothModuleHC06.pretty")(options "")(descr ""))
+  (lib (name "FS8205A")(type "KiCad")(uri "C:/Users/Trajectory/Dropbox/Electronics/Library/FS8205A")(options "")(descr ""))
+  (lib (name "TP4056")(type "KiCad")(uri "C:/Users/Trajectory/Dropbox/Electronics/Library/TP4056")(options "")(descr ""))
+  (lib (name "DW01A")(type "KiCad")(uri "C:/Users/Trajectory/Dropbox/Electronics/Library/DW01A")(options "")(descr ""))
+  (lib (name "FP6298XR-G1")(type "KiCad")(uri "C:/Users/Trajectory/Dropbox/Electronics/Library/FP6298XR-G1")(options "")(descr ""))
+  (lib (name "KiCad")(type "KiCad")(uri "C:/Users/Trajectory/Dropbox/Electronics/Library/JSHC0650H-220M-G/KiCad")(options "")(descr ""))
+)

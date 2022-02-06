@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name "BLUETOOTH-SERIAL-HC-06")(type "KiCad")(uri "C:/Users/Trajectory/Dropbox/Electronics/Library/BLUETOOTH-SERIAL-HC-06.kicad_sym")(options "")(descr ""))
+  (lib (name "TP4056")(type "KiCad")(uri "C:/Users/Trajectory/Dropbox/Electronics/Library/TP4056.kicad_sym")(options "")(descr ""))
+  (lib (name "DW01A")(type "KiCad")(uri "C:/Users/Trajectory/Dropbox/Electronics/Library/DW01A.kicad_sym")(options "")(descr ""))
+  (lib (name "FS8205")(type "KiCad")(uri "C:/Users/Trajectory/Dropbox/Electronics/Library/FS8205.kicad_sym")(options "")(descr ""))
+  (lib (name "LM2577S-ADJ_NOPB")(type "KiCad")(uri "C:/Users/Trajectory/Dropbox/Electronics/Library/LM2577S-ADJ_NOPB.kicad_sym")(options "")(descr ""))
+)
